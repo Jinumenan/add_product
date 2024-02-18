@@ -1,0 +1,12 @@
+for client
+
+npm init vite(basic setup)
+use tailwind config (follow the website)
+npm install axios react-router-dom
+
+for server
+npm init -y
+npm install express mongoose cors nodemon
+
+
+"start":"nodemon index.js"
